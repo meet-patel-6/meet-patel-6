@@ -59,9 +59,6 @@ I'm passionate about leveraging technology to make a tangible impact. I enjoy co
 
 <div align="center">
 
-<!-- Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=meet-patel-6&theme=dark)](https://git.io/streak-stats)
-
 
 <!-- Basic Stats -->
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=meet-patel-6&show_icons=true&theme=monokai&hide_border=true&include_all_commits=true&count_private=true" alt="github stats" />
