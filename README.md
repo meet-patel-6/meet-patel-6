@@ -61,35 +61,35 @@ I'm passionate about leveraging technology to make a tangible impact. I enjoy co
 
 <!-- Streak Stats -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Chirag-Jani&theme=monokai&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=meet-patel-6&theme=monokai&hide_border=true)](https://git.io/streak-stats)
 
 <!-- Basic Stats -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Chirag-Jani&show_icons=true&theme=monokai&hide_border=true&include_all_commits=true&count_private=true" alt="github stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=meet-patel-6&show_icons=true&theme=monokai&hide_border=true&include_all_commits=true&count_private=true" alt="github stats" />
 
 <!-- Languages Stats -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Chirag-Jani&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="top languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=meet-patel-6&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="top languages" />
 
 ### 📈 Detailed Contribution Analysis
 
 <!-- Profile Details Card -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meet-patel6&theme=monokai" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meet-patel-6&theme=monokai" />
 
 <!-- Language and Commit Details -->
 <table>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=meet-patel6&theme=monokai" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=meet-patel-6&theme=monokai" />
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=meet-patel6&theme=monokai" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=meet-patel-6&theme=monokai" />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=meet-patel6&theme=monokai" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=meet-patel-6&theme=monokai" />
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=meet-patel6&theme=monokai&utcOffset=8" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=meet-patel-6&theme=monokai&utcOffset=8" />
     </td>
   </tr>
 </table>
@@ -97,11 +97,11 @@ I'm passionate about leveraging technology to make a tangible impact. I enjoy co
 ### 🏆 GitHub Achievements
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=meet-patel6&theme=monokai&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="github trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=meet-patel-6&theme=monokai&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="github trophies" />
 
 ### 📈 Contribution Graph
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=meet-patel6&theme=monokai&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=meet-patel-6&theme=monokai&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity graph" />
 
 </div>>
