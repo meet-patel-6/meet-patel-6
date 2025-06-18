@@ -37,7 +37,7 @@
 - **Leadership & Collaboration**: Developed strong leadership and collaborative problem-solving skills. Lead a team of 6 in SSIP hacathone.
 
 ## 💻 Competitive Programming
-- Solved over **2000 DSA problems** on platforms like GeeksforGeeks, LeetCode, and more
+- Solved over **1000 DSA problems** on platforms like GeeksforGeeks, LeetCode, and more
 - Earned a **2-star rating on CodeChef** for competitive coding
 
 ## ✍️ Internships
